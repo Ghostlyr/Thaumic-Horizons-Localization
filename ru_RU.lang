@@ -38,7 +38,7 @@ focus.upgrade.solar.text=Сферы, созданные этим фокусом,
 focus.upgrade.headlightfluid.name=Жидкость света
 focus.upgrade.headlightfluid.text=У этого фокуса появится функция наполнения одного кубического метра жидкости мягким светом. Этот эффект довольно хрупок и будет рассеян, если вода будет взята в ведро.
 focus.upgrade.fission.name=Расщепление вис
-focus.upgrade.fission.text=This focus has a 20% chance of generating one point of all primals present in a compound aspect it drains.
+focus.upgrade.fission.text=У этого центра есть 20%-й шанс создания одного пункта из всех основных существующий в составном аспекте это высушивает.
 focus.upgrade.escape.name=Бегство
 focus.upgrade.escape.text=Этот краеугольный камень может создавать порталы в внешние земли.
 
